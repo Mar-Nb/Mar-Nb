@@ -7,7 +7,7 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=mar-nb&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Mar-Nb&style=flat-square&color=blue" alt=""/>
   
   <h1>
     Yo !
@@ -21,7 +21,7 @@
 
 ---
 
-### 👨‍💻 A propos de moi :
+### 👨‍💻 A propos de moi
 
 Je suis développeur Web en France, à Paris ! 🙆‍♂️
 
@@ -48,7 +48,12 @@ Je suis développeur Web en France, à Paris ! 🙆‍♂️
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
 
+---
 
+### 🔥 Mon activité sur Github
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mar-Nb&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mar-Nb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Mar-Nb/Mar-Nb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
