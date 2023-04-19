@@ -21,13 +21,13 @@
 
 ---
 
-### 👨‍💻 A propos de moi
+### 👨‍💻 À propos de moi
 
-Je suis développeur Web en France, à Paris ! 🙆‍♂️
+Je suis développeur Web FullStack en France, à Paris ! 🙆‍♂️
 
-- 👨‍🎓 : Je suis en alternance au CFA INSTA, pour mes études de développeur.
-- 🛠️ : Je suis dans une phase de refonte de mes anciens projets scolaires, et de découverte de nouveaux projets personnels.
-- ⚡ : Il m'arrive de commenter les livres que je lis et les séries que je visionne sur Twitter. 👀
+- 👨‍🎓 : Je possède un DUT Informatique et une licence professionnelle. Je suis également diplomé du CFA Insta (Architecte Technique en Informatique et Réseau).
+- 🛠️ : Je suis dans une phase de refonte de mes anciens projets scolaires, et de découverte au travers de nouveaux projets personnels.
+- ⚡ : Il m'arrive de commenter les livres que je lis et les séries que je visionne sur mon site internet. 👀
 - 📫 : Vous pouvez me joindre à cette adresse mail : <niombela.martin@gmail.com>.
 
 ---
