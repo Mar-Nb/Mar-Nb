@@ -1,12 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150" />
-  
-  <div id="badges">
-    <a href="https://twitter.com/Jaykussu">
-      <img src="https://img.shields.io/badge/Twitter-lightseagreen?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  
+    
   <img src="https://komarev.com/ghpvc/?username=Mar-Nb&style=flat-square&color=blue" alt=""/>
   
   <h1>
