@@ -5,9 +5,12 @@
     <a href="https://www.linkedin.com/in/martin-stephen-niombela-182520237/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://x.com/da_whistler">
+      <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
     <a href="https://www.instagram.com/da.whistler/">
-      <img src="https://img.shields.io/badge/Instagram-Martin%20Nb-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
-    </a>    
+      <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
+    </a>
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=Mar-Nb&style=flat-square&color=blue" alt=""/>
@@ -28,7 +31,7 @@
 
 Je suis développeur Web FullStack en France, à Paris ! 🙆‍♂️
 
-- 👨‍🎓 : Je possède un DUT Informatique et une licence professionnelle. Je suis également diplomé du CFA Insta (Architecte Technique en Informatique et Réseau).
+- 👨‍🎓 : Je possède un DUT Informatique et une licence professionnelle. Je suis également diplomé du CFA Insta (Architecte Technique en Informatique et Réseau). En ce moment, je suis en alternance au bootcamp de La Capsule ! 🚀
 - 🛠️ : Je suis dans une phase de refonte de mes anciens projets scolaires, et de découverte au travers de nouveaux projets personnels.
 - ⚡ : Il m'arrive de commenter les livres que je lis et les séries que je visionne sur mon site internet. 👀
 - 📫 : Vous pouvez me joindre à cette adresse mail : <niombela.martin@gmail.com>.
