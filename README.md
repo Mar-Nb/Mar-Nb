@@ -6,13 +6,13 @@ Développeur Web JS
 
 J'ai commencé à coder il y a 6 ans maintenant, avec des sites internet vanilla et des petits algorithmes en langage C. Après avoir bien consolidé les bases de la programmation au travers de divers langages (Java, Python, PHP, pour ne citer qu'eux), j'ai développé une certaine appétence pour le développement en Javascript, et avec les différents frameworks existants (Angular, Next.js, Nuxt, React Native).
 
-* 🌍  Je suis situé à Paris, Ile-de-France
+* 🌍  Je suis situé à **Paris**, en Ile-de-France (🇫🇷🥖)
 * 🖥️  Vous pouvez visiter mon portfolio ici : [(à venir)]()
 * ✉️  Vous pouvez me contacter via [niombela.martin@gmail.com](mailto:niombela.martin@gmail.com)
 * 🛠️  Je suis dans une phase de refonte de mes anciens projets scolaires, et de découverte au travers de nouveaux projets personnels.
 * 🚀  En ce moment, je travaille sur [Toutenkommun](http://github.com/Mar-Nb/ttk-frontend)
 * 🧠  Je suis en train d'apprendre Next.js 14 et son App Router
-* 🤝  J'aimerais bien pouvoir collaborer les jeux vidéo, les jams et les hackathons
+* 🤝  J'aimerais bien pouvoir collaborer sur des jeux vidéo, lors de jams et ou encore de hackathons !
 * ⚡  J'aime bien écrire des articles, et je poste également de temps en temps sur mes réseaux sociaux (que ce soit technique ou moins technique !)
 
 ### Skills
